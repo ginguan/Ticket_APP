@@ -1,9 +1,10 @@
-# ticket
+# Ticket APP (In Progress) -- NEW YEAR PROJECT
  
 - Scirpts:
-in auth folder
-'''
-npm init -y
-npm install typescript ts-node-dev express @types/express
-tsc --init
-'''
+
+ In auth folder
+
+
+    npm init -y
+    npm install typescript ts-node-dev express @types/express
+    tsc --init
