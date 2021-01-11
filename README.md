@@ -1,10 +1,18 @@
-# Ticket APP (In Progress) -- NEW YEAR PROJECT
- 
-- Scirpts:
+# Ticket APP (In Progress) 
+### YEAR 2021 PROJECT :metal: 
 
- In auth folder
+Some init IDEAs:
+- using reactJS, TypeScript, mongoDB
+- use of microservices concepts
+- a sign up and login for users using Auth
+- users can sell and buy tickets 
+- ticket info pages
+- checkout page ==> payment
 
+Scirpts:
 
-    npm init -y
-    npm install typescript ts-node-dev express @types/express
-    tsc --init
+- In auth folder
+
+      npm init -y
+      npm install typescript ts-node-dev express @types/express
+      tsc --init
