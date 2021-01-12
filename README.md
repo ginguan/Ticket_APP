@@ -16,3 +16,6 @@ Scirpts:
       npm init -y
       npm install typescript ts-node-dev express @types/express
       tsc --init
+
+      docker build -t auth .
+      skaffold dev
