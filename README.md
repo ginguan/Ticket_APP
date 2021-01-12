@@ -19,3 +19,7 @@ Scirpts:
 
       docker build -t auth .
       skaffold dev
+
+      edit deployment and ingress
+      code /etc/hosts
+      sudo lsof -i tcp:80
